@@ -1,0 +1,1 @@
+This is a C# Windows Forms application for employee management and salary calculation. It includes user login, employee registration, salary processing with overtime and tax, and basic reporting features. Ideal for learning form-based CRUD operations in C#.
